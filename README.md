@@ -1,6 +1,12 @@
 # circle_point_group
 中心から点群を円状に生成するコード
 
+コードは下記のURLから
+
+https://github.com/YuichiroHatanaka/circle_point_group/blob/master/random_circle.ipynb
+
+
+
 参考文献
 
 Pythonで２次元データ作成ー四角形に収まる点の集合
