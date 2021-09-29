@@ -1,6 +1,10 @@
 # circle_point_group
 中心から点群を円状に生成するコード
 
+実装環境
+
+Python 3.8.8
+
 コードは下記のURLから
 
 https://github.com/YuichiroHatanaka/circle_point_group/blob/master/random_circle.ipynb
