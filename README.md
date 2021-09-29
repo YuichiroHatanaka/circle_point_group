@@ -1,0 +1,2 @@
+# circle_point_group
+中心から点群を円状に生成するコード
